@@ -1,0 +1,6 @@
+interface:
+  display_name: "Grill Ultra"
+  short_description: "先形成需求，再压力测试方案：候选确认单、分轮选择、自填澄清与共识审核"
+  default_prompt: "使用 $grill-ultra 帮我澄清需求并审查方案。"
+policy:
+  allow_implicit_invocation: true
